@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מוזיקת הרנסאנס המוקדמת</title>
+    <style>
+        :root {
+            --primary-color: #5c4033;
+            --secondary-color: #8b6b4f;
+            --bg-color: #f5f1eb;
+            --text-color: #333;
+            --accent-color: #c19a6b;
+            --youtube-red: #ff0000;
+        }
+        
+        body {
+            font-family: 'David', 'Times New Roman', serif;
+            line-height: 1.6;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 20px;
+        }
+        
+        h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+        }
+        
+        h2 {
+            color: var(--secondary-color);
+            font-size: 1.8rem;
+            margin-top: 30px;
+        }
+        
+        .article-section {
+            margin-bottom: 30px;
+            text-align: justify;
+        }
+        
+        p {
+            margin-bottom: 16px;
+        }
+        
+        .video-container {
+            position: relative;
+            width: 100%;
+            padding-bottom: 56.25%;
+            margin: 30px 0;
+            border: 3px solid var(--accent-color);
+            border-radius: 5px;
+            overflow: hidden;
+        }
+        
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        
+        .video-caption {
+            text-align: center;
+            font-style: italic;
+            margin-top: 10px;
+            color: var(--secondary-color);
+        }
+        
+        .highlight {
+            background-color: rgba(193, 154, 107, 0.2);
+            padding: 2px 5px;
+            border-radius: 3px;
+        }
+        
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid var(--accent-color);
+        }
+        
+        .nav-button {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        
+        .nav-button:hover {
+            background-color: var(--secondary-color);
+        }
+        
+        .disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        
+        .page-indicator {
+            text-align: center;
+            margin-top: 10px;
+            color: var(--secondary-color);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>מוזיקת הרנסאנס המוקדמת</h1>
+        <p>מסע מוזיקלי לתקופת הרנסאנס המוקדמת - המאה ה-15</p>
+    </header>
+    
+    <main>
+        <div class="article-section">
+            <p>עכשיו אכתוב את מה שהיה אמור להיות החצי השני של הפוסט הקודם. ובכך נסיים עם המאה ה-15 ומוזיקת הרנסאס המוקדמת. לפני שבאה הרפורמאציה הפרוטסטאנטית, המהפכה המדעית וכו'.</p>
+            <p>אלו שנים של דקאדנס תרבות, שפע, גודש, והוללות. מי שראה את הסדרה 'משפחת בורג'ה' יכול לדמיין את האווירה.</p>
+            <p>בפוסט הקודם דיברתי על פרוטולות - רבות מהן הולחנו עבור החצר של לוקרציה בורג'ה בעיר פרארה (בעלה השלישי והאחרון היה הדוכס של פרארה. עוד נזכיר אותו כאן בפוסט.)</p>
+            <p>עכשיו נחזור למוזיקה ה-'רצינית' של התקופה - האסכולה הבורגונדית והפראנקו-פלמית.</p>
+            <p>המלחין החשוב ביותר של האסכולה הבורגונדית באמצע המאה ה-15 היה גיום דופאיי, שפעל (כמובן) בעיקר באיטאליה. אחרי התרסקות החצר הבורגונדית בלגיה המוזיקאים הבלגים התפזרו על פני כל אירופה בחיפוש אחר פרנסה. ואיטאליה באותה תקופה הייתה מאד עשירה - גם חומרית וגם תרבותית - אז טבעי הוא שרבים מהם התרכזו שם.</p>
+            <p>בעיר פירנצה המהוללה במשך מאתיים שנה בנו קאתדראלה רחבת מימדים שתהיה ראויה לעיר זו. (אגב עד היום זהו אחד המבנים הגדולים בעולם.)</p>
+            <p>אלא שבסוף המאה ה-14 גילו עובדה מביכה - הקאתדראלה גדולה מכדי לכסות אותה בגג - טכניקות הבניה הגותיות שהם הכירו לא אפשרו לבנות גגות רחבים מדי מבלי תמיכה באמצעות עמודים. אבל הקאתדראלה הייתה גם גבוהה מאד, ולא היה שייך לבנות עמודים גבוהים כל כך, שגם יצליחו להחזיק את הגג.</p>
+            <p>חכמי העיר גירדו הרבה בפדחותיהם, עד שבא פיליפו ברונלסכי.</p>
+            <p>הלה, ברוח התקופה, היה מעריץ גדול של הישגי התרבויות הרומאית והיוונית, ולמד באופן מדוקדק את הפסלים והבניינים שהשאירו אחריהם הרומאים - במיוחד הפאנתיאון ברומא, המכוסה בכיפה ענקית שאינה נזקקת לעמודים כדי לתמוך בה.</p>
+            <p>הוא כמובן לא היה רק אמן אלא גם מהנדס ומתימטיקאי מוכשר.</p>
+            <p>ברונלסכי נחשב הן לצייר-הרנסאנס הראשון, והן לאדריכל-הרנסאנס הראשון.</p>
+            <p>בתחום הציור - הוא זה שהמציא את הפרספקטיבה (!!) - שממנו והלאה היוותה את סימן ההיכר של הציור המערבי.</p>
+            <p>בתחום האדריכלות, הוא בנה את הכיפה של הקאתדראלה של פירנצה - וזה נחשב ההישג הראשון של אדריכלות הרנסאנס.</p>
+            <p>לא עוד יערות של עמודים וערימה של קישוטים מיותרים - אלא פשטות סולידית - שבאותה תקופה הוערכה מאד, במסגרת הפניית העורף של האיטאלקים לימי הביניים (אם לא סלידה ממש).</p>
+            <p>הכיפה הושלמה באמצע המאה ה-15, ונערך טקס גדול של חנוכת בית עבור הקאתדראלה, בהשתתפות כל המי והמי. האפיפיור לא הצליח להגיע, אבל שלח מתנה סמלית: זר פרחים עשוי זהב ואבנים יקרות.</p>
+            <p>לכבוד הטקס, ביקשו מגיום דופאיי לכתוב מוטט.</p>
+            <p>[מוטט - מונח שכבר הסברתי: יצירה כנסייתית חוץ-ליתורגית, שנועדה להיות מושרת במהלך הליתורגיה, אבל הטקסט שלה אינו מהווה חלק אינטגראלי מהליתורגיה.]</p>
+            <p>המילים למוטט נכתבו בידי משורר מקומי, והן משבחות את האפיפיור והמתנה שלו, וכמובן את הבתולה ובנה...</p>
+            <p>המנגינה הבסיסית (קאנטוס פירמוס) היא מתוך הפתיחה (אינטרואיטוס) המסורתית למיסת-חנוכת-כנסיה והמילים של הקאנטוס פירמוס הן: "מַה נּוֹרָא הַמָּקוֹם הַזֶּה אֵין זֶה כִּי אִם בֵּית אֱלֹהִים וְזֶה שַׁעַר הַשָּׁמָיִם".</p>
+            <p>היצירה הזו היא היצירה הראשונה (!) בה נעשה שימוש ב-'טרצה פיקארדית':</p>
+            <p>טרצה פיקארדית, בפשטות, היא אקורד מאז'ורי בסוף משפט בסולם מינורי.</p>
+            <p>זה היה אחד מסימני ההיכר של המוזיקה האירופאית מאמצע המאה ה-15 ועד לסוף המאה ה-17.</p>
+            <p>(פעמים רבות ברמה האינסטינקטיבית כאשר אנו חשים ב-'סאונד רנסאנסי' הסאונד הזה אינו אלא טרצה פיקארדית.)</p>
+            <p>הסיבה למאפיין זה במקורה הייתה לא טעם אסתטי אלא מגבלה דתית:</p>
+            <p>מכיוון שמינור (גם היום) מורגש בתור טון 'עצוב', הכנסיה לא ראתה בעין יפה שימוש במינור במוזיקה כנסייתית. (העצבות היא מהשטן, כידוע).</p>
+            <p>אז דופאי מצא פתרון!: למה שלא נתקע אקורד מאז'ורי בסוף היצירה, וככה היא תיחשב יצירה מאז'ורית?</p>
+            <p>אמר ועשה - בלינק הראשון (1) תוכלו לשמוע את היצירה במלואה (התאזרו קצת בסבלנות - אחרי דקה פלוס היא באמת הופכת למעניינת) - ממש ממש בסוף היצירה - אחרי שהיא כבר למעשה נגמרה לחלוטין על אקורד מינורי - פתאום קופץ טרומבון ותוקע תו שהופך את האקורד למאז'ורי. גאוני.</p>
+            
+            <div class="video-container" id="video-1">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/_dV5b8AuLHg" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                </iframe>
+            </div>
+            <div class="video-caption">המוטט של גיום דופאיי - הדגמה לטרצה פיקארדית</div>
+            <div class="video-caption">המוטט של גיום דופאיי - הדגמה לטרצה פיקארדית</div>
+            
+            <p>אבל חרף ה-'יוצא-זיי" שממנו נולדה התופעה הזאת - טרצה פיקארדית - היא הפכה למאפיין אסתטי מרכזי של הרנסאנס וגם התפשטה למוזיקת חול של התקופה. כי בסופו של דבר זה פשוט יפה.</p>
+            <p>טרצה פיקארדית נקראית כך ע"ש מחוז פיקארדיה בצרפת (על גבול בלגיה של היום) שהשתייך בשלב מסויים לדוכסות בורגונדיה - ושמה נולדו לא מעט מלחינים בורגונדים ופראנקו-פלמים. ביניהם דופאיי עצמו, וגם המלחין הבא שנדבר עליו - ז'וסקן.</p>
+            <p>דופאיי גם כתב מוזיקת חול, ותוכלו לשמוע שיר שלו בלינק השני (2): "אם הפנים חיוורות...". ניכר ההבדל בינה לבין פרוטולות שנכתבו באותה תקופה.</p>
+            
+            <div class="video-container" id="video-2">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/0BJ-9TVqYC4" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                </iframe>
+            </div>
+            <div class="video-caption">מוזיקת חול של דופאיי - "אם הפנים חיוורות..."</div>
+            <div class="video-caption">מוזיקת חול של דופאיי - "אם הפנים חיוורות..."</div>
+            
+            <p>********</p>
+            <p>המלחין השני, הפראנקו-פלמי, שנדבר עליו הוא ז'וסקן דה פרה.</p>
+            <p>אולי המלחין המייצג ביותר את המיינסטרים של תקופת הרנסאנס במוזיקה (המאות ה-15-16), ובכל אופן אחד מ-3,4 המלחינים הגדולים של התקופה.</p>
+            <p>[בדרך כלל פאלסטרינה, שפעל כמאה שנה אחרי ז'וסקן, ושעוד נדבר בו, נחשב המלחין החשוב ביותר של התקופה, אבל למען האמת צריך להיות 'מבין' גדול כדי לחוש בהבדל בין המוזיקה שלו למוזיקה של ז'וסקן. אף על פי כן, כשנגיע אליו, נציין כמה הבדלים...]</p>
+            <p>הוא עבד בין השאר ברומא בשירותו של אלכסנדר השישי (רודריגו בורג'ה) הידוע לשמצה.</p>
+            <p>כפי שסיפרתי כבר לפני כמה פוסטים, כאשר מארטין לותר עלה לרגל לרומא הוא הזדעזע מכל הפריצות והפאר שם. אבל דווקא מהמוזיקה של ז'וסקן הוא התרשם לטובה. הוא אמר לימים: "כל המלחינים הם עבדי התווים, ואילו ז'וסקן הוא אדונם".</p>
+            <p>נשמע קודם כל 'אווה מריה' שלו: לינק מס' 3.</p>
+            <p>זו יצירה בסולם מאז'ור - כנהוג, כאמור.</p>
+            <p>והמאפיינים הבולטים שלה טיפוסיים עבור האסכולה הפראנקו-פלמית - מין דייסה של צלילים שלא הולכת לשום מקום, ויוצרת תחושה של הימצאות בגן עדן.</p>
+            
+            <div class="video-container" id="video-3">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/xGkb5KFwx1I" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                </iframe>
+            </div>
+            <div class="video-caption">אווה מריה של ז'וסקן דה פרה</div>
+            <div class="video-caption">אווה מריה של ז'וסקן דה פרה</div>
+            
+            <p>היצירה השניה פרי עטו שנשמע היא מיסה שהוא כתב לכבוד הדוכס של פראראה, הרקולס, שהיה חמיה של לוקרציה בורג'ה.</p>
+            <p>הוא משתמש שם בטכניקה שנקראית 'נושא מגולף'.</p>
+            <p>כדי להבין את הרעיון, ניקח סולם שאנו מכירים: דו-רה-מי-פה-סול-לה-סי</p>
+            <p>עכשיו ניקח את השם שלי, דוד: יש בו שתי תנועות - 'אה', ו-'אי'.</p>
+            <p>'אה', כמו בתו 'פה', ו-'אי' כמו בתו 'מי'.</p>
+            <p>אפשר להגיד אפוא שהתוים המתאימים לשם שלי הם פה-מי.</p>
+            <p>אז בהסתמך על פאטנט זה, זו'סקן המציא טריק ששימש מלחינים רבים ברנסאנס מכאן ואילך - לתת למילים בטקסט את התווים ה-'מתאימים' להם בסולם.</p>
+            <p>במיסה שנשמע, הטנור, במקביל למילות המיסה המושרות על ידי הקולות האחרים, שר שוב ושוב קאנטוס-פירמוס שהטקסט שלו הוא: 'הרקולס, דוכס פרארה', והתווים שלו, בהתאם להברות המילים הם: רה-דו-רה-דו-רה-פה-מי-רה. שאר הקולות נטווים סביב הקאנטוס-פירמוס הזה.</p>
+            <p>לינק מס' 4 - הקשיבו כמה דקות ורשאים לכבות.</p>
+            
+            <div class="video-container" id="video-4">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/UUXZGZuMmEY" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                </iframe>
+            </div>
+            <div class="video-caption">מיסה "הרקולס דוכס פרארה" של ז'וסקן דה פרה</div>
+            <div class="video-caption">מיסה "הרקולס דוכס פרארה" של ז'וסקן דה פרה</div>
+            
+            <p>היצירה השלישית של ז'וסקן שנשמע היא שיר חול (שאנסון, בצרפתית) שהיה להיט היסטרי, לא רק בתקופתו אלא גם דורות רבים אחר כך - ויצירות רבות - גם כנסייתיות - התבססו עליו: 'אלף חרטות על כך שעזבתיך ורחקתי מפנייך האוהבות. סבלי כה רב שסוף ימיי קרב'.</p>
+            <p>אומרים שהקיסר קארל החמישי, כל פעם שהיה עצוב, היה מבקש מהמוזיקאים שלו לנגן לו את השיר הזה.</p>
+            <p>שימו לב למשהו ממש חריג במוזיקה של התקופה, ובכלל:</p>
+            <p>השיר לא מסתיים בקאדנצה מלאה אלא באמצע משפט מוזיקאלי!</p>
+            <p>כנראה זו לא תהיה פרשנות-יתר אם נאמר שה-'גידוע' הזה של היצירה הוא מכוון ובא לסמל או את מותו הקרב של המשורר או את הפרידה הכואבת שלו מאהובתו.</p>
+            <p>לינק מס' 5.</p>
+            
+            <div class="video-container" id="video-5">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/dkfVzCZ68_Q" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                </iframe>
+            </div>
+            <div class="video-caption">"אלף חרטות" - שאנסון מאת ז'וסקן דה פרה</div>
+            <div class="video-caption">"אלף חרטות" - שאנסון מאת ז'וסקן דה פרה</div>
+            
+            <p>ז'וסקן גם כתב פרוטולות בשעות הפנאי. ונסיים בפרוטולה מפורסמת שלו, שגם עליה התבססו כמה יצירות של מלחינים אחרים בהמשך: שיר היתולי על בריון שהולך למלחמה חמוש בחנית וחרב, ולמחרת יוצא לבלות. בום-בום-בום בום-בום-בום. זה כל השיר, ברצינות. לינק מס' 6.</p>
+            
+            <div class="video-container" id="video-6">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/LSmw8jHLgs8" loading="lazy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+                </iframe>
+            </div>
+            <div class="video-caption">פרוטולה מאת ז'וסקן דה פרה</div>
+            <div class="video-caption">פרוטולה מאת ז'וסקן דה פרה</div>
+        </div>
+        
+        <div class="navigation">
+            <button class="nav-button">הקודם</button>
+            <button class="nav-button">הבא</button>
+        </div>
+        <div class="page-indicator">עמוד 1 מתוך 1</div>
+    </main>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Auto-scroll to video section when clicked on reference
+            document.querySelectorAll('p').forEach(paragraph => {
+                const text = paragraph.innerHTML;
+                if (text.includes('לינק מס\'')) {
+                    const updatedText = text.replace(
+                        /(לינק מס\' (\d+))/g, 
+                        '<a href="#video-$2" class="highlight">$1</a>'
+                    );
+                    paragraph.innerHTML = updatedText;
+                }
+            });
+            
+            // Video containers already have IDs assigned in the HTML
+            
+            // Scroll handling
+            document.querySelectorAll('a[href^="#video-"]').forEach(anchor => {
+                anchor.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const targetId = this.getAttribute('href');
+                    const targetElement = document.querySelector(targetId);
+                    
+                    if (targetElement) {
+                        window.scrollTo({
+                            top: targetElement.offsetTop - 100,
+                            behavior: 'smooth'
+                        });
+                    }
+                });
+            });
+            
+            // Disable previous button on first page
+            const prevButton = document.querySelector('.navigation button:first-child');
+            prevButton.classList.add('disabled');
+            
+            // Navigation buttons functionality would be expanded in a multi-page implementation
+        });
+    </script>
+</body>
+</html>
